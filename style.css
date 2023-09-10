@@ -256,7 +256,7 @@ li{
         justify-content:space-between;
         gap: 10px;
         align-items: center;
-        margin: 20px 10px 10px 10px;
+        margin: 20px 0px 10px 10px;
     }
     
     header h1{
@@ -266,8 +266,8 @@ li{
     }
     .puzzle img{
         position: relative;
-        width: 300px;
-        height: 250px;
+        width: 304px;
+        height: 215px;
     }
     main{
         display: block;
